@@ -1,0 +1,9 @@
+###Virtual env###
+venv/ 
+.vscode/
+
+###cash###
+**/__pycache__/
+
+###models###
+**/models/
